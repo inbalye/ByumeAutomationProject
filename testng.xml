@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="buyme.co.il.tests.SearchGiftCardTest"/>
+      <class name="buyme.co.il.tests.End2EndTest"/>
+      <class name="buyme.co.il.tests.GoogleLoginTest"/>
+      <class name="buyme.co.il.tests.HeaderFunctionalityButtonsTest"/>
+      <class name="buyme.co.il.tests.FacebookLoginTest"/>
+      <class name="buyme.co.il.tests.OrderGiftCardStep1ChooseGiftCardAmountTest"/>
+      <class name="buyme.co.il.tests.RegistrationTest"/>
+      <class name="buyme.co.il.tests.LoginTest"/>
+      <class name="buyme.co.il.tests.ChooseGiftCardTest"/>
+      <class name="buyme.co.il.tests.OrderGiftCardStep2WhoToSendTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
